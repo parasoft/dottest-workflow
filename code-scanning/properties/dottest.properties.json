@@ -1,0 +1,8 @@
+  
+{
+    "name": "dotTEST Analysis",
+    "creator": "Parasoft",
+    "description": "Static analysis from Parasoft for C# and VB.NET.",
+    "iconName": "icons/dottest.svg",
+    "categories": ["Code Scanning", "Parasoft", "dotTEST", "Static Analysis", "C#", "VB.NET"]
+}
